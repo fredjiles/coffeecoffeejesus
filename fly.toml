@@ -1,4 +1,4 @@
-app = "coffeecoffeejesus-9731"
+app = "coffeecoffeejesus"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
